@@ -1,0 +1,3 @@
+[console_scripts]
+osiris=osiris.app:app
+

@@ -1,0 +1,3 @@
+[console_scripts]
+giza=giza.cli:entrypoint
+

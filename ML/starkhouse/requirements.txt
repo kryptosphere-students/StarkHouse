@@ -1,0 +1,5 @@
+giza-actions
+numpy
+scipy
+torch
+torchvision
