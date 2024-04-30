@@ -21,3 +21,4 @@ onnx_model = convert_sklearn(model, initial_types=initial_type)
 
 with open("linear_regression.onnx", "wb") as f:
     f.write(onnx_model.SerializeToString())
+
